@@ -5,6 +5,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 <template>
   <main>
     <div data-test-id="toto"></div>
+    <a>About</a>
     <TheWelcome />
   </main>
 </template>
