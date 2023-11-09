@@ -4,6 +4,7 @@ import TheWelcome from '../components/TheWelcome.vue'
 
 <template>
   <main>
-    <TheWelcome data-test-id="toto" />
+    <div data-test-id="toto"></div>
+    <TheWelcome />
   </main>
 </template>
